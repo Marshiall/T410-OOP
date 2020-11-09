@@ -19,7 +19,7 @@ ZALEGLE ZADANIA
 - Formularz ostylowany (T40804)
 - PHP+MySQL (T40901,T40902,T40903,T40904)
 
-T40901 - Stwórz obiektowo strukturę danych odzwierciedlającą samochód, mieszkanie, mebel, uczeń
+T40901 - Stwórz obiektowo strukturę danych odzwierciedlającą samochód, mieszkanie, mebel
 
 
 ```
