@@ -8,14 +8,16 @@
 4. MySQL OOP
 ```
 
+Jutro (Wtorek 10.11.2020) spotykamy sie na zajeciach w szkole o godz 7:10
+
 ### --------ZAD
 ```
 
 ZALEGLE ZADANIA
 
-multimedia (T40701,T40702,T40703,T40704,T40705,T40801)
-Formularz ostylowany (T40804)
-PHP+MySQL (T40901,T40902,T40903,T40904)
+- multimedia (T40701,T40702,T40703,T40704,T40705,T40801)
+- Formularz ostylowany (T40804)
+- PHP+MySQL (T40901,T40902,T40903,T40904)
 
 T40901 - Stwórz obiektowo strukturę danych odzwierciedlającą samochód, mieszkanie, mebel, uczeń
 
